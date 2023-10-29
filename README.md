@@ -31,7 +31,16 @@ Thank you for your understanding and continued support!
 GURU-BOT- Simple Multi Device whatsapp bot.
 
 ***
+</br>
 
+
+  <h2 align="center"> 🚩  Deploy On Codespace  🚩
+</h2>
+<h2 align="center">  <a href="https://github.com/codespaces/new"><img title="Guru on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+</h2>
+     
+   <br>
 #### SETUP
 
 1. Fork the repo
